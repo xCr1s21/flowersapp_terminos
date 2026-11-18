@@ -1,0 +1,20 @@
+.jardin-legal {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  color: inherit;
+  line-height: 1.7;
+  overflow-wrap: anywhere;
+}
+.jardin-legal__title { margin: 2rem 0 1rem; font-size: 1.6rem; line-height: 1.25; font-weight: 700; }
+.jardin-legal__heading { margin: 1.75rem 0 .65rem; font-size: 1.15rem; line-height: 1.4; font-weight: 700; }
+.jardin-legal__paragraph { margin: .65rem 0; }
+.jardin-legal__note { margin: 1rem 0; padding: .85rem 1rem; border-left: 3px solid currentColor; opacity: .85; }
+.jardin-legal__item { margin: .4rem 0 .4rem 1.25rem; padding-left: .25rem; list-style: disc; }
+.jardin-legal a { text-decoration: underline; text-underline-offset: 2px; }
+.jardin-legal__table-wrap { width: 100%; overflow-x: auto; margin: 1rem 0 1.5rem; }
+.jardin-legal__table { width: 100%; border-collapse: collapse; min-width: 620px; text-align: left; }
+.jardin-legal__table th, .jardin-legal__table td { padding: .7rem; border: 1px solid currentColor; vertical-align: top; }
+.jardin-legal__table th { font-weight: 700; }
+.jardin-legal__list { margin: .35rem 0; padding-left: 1.25rem; }
+.jardin-legal__item { margin: .4rem 0; padding-left: .25rem; list-style: disc; }
